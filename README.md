@@ -1,5 +1,5 @@
 # YabadaLang
- Simple interpreter lang in python
+ Simple interpreter lang for python
 ## Operators
 A limited range of arithmetic expressions are provided. Addition and subtraction have the lowest precedence, but this can be changed with parentheses.
 * **+** - Addition
