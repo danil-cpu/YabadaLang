@@ -1,0 +1,2 @@
+class ExpressionNode(object):
+	pass
